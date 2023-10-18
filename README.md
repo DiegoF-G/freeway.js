@@ -1,5 +1,5 @@
 # freeway.js
->Repository status: Finish, but can be update
+>Repository status: Finished, but can be update
 
 My second project that I made, after Pong game, for learn programing logic and Javascript in Alura course of programming beginner. 
 
